@@ -1,0 +1,7 @@
+cd C:\AIProjects
+git init
+git remote add origin https://github.com/<your-username>/ai-travel-agent.git
+git add .
+git commit -m "Initial Streamlit AI Agent"
+git branch -M main
+git push -u origin main
